@@ -4,7 +4,6 @@ import {
   AvatarFallback,
   AvatarImage,
 } from "@/components/ui/avatar"
-import { Icons } from "@/components/icons"
 import { useTheme } from "next-themes"
 import { Button } from "@/components/ui/button"
 import {

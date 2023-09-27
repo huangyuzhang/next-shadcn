@@ -2,7 +2,6 @@ import Link from "next/link"
 
 import { siteConfig } from "@/config/site"
 import { buttonVariants } from "@/components/ui/button"
-import { Icons } from "@/components/icons"
 import { MainNav } from "@/components/nav-main"
 import { MobileNav } from "./nav-mobile"
 import { NavDropdown } from "./nav-dropdown"
